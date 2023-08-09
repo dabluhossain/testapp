@@ -1,0 +1,6 @@
+git:https://github.com/dabluhossain/
+scr->app----- this is the root folder
+src->app->layout---this master layout
+src->page------- this is routing page root routing page
+next.config.js-----configured in the project's next.config.js file
+public------is for image or extername file
